@@ -327,17 +327,10 @@ Possible use cases include:
 
 The project can be further improved by adding:
 
-* [ ] Better cursor calibration
-* [ ] Adaptive sensitivity
-* [ ] More accurate finger-state detection
-* [ ] Multi-hand support
-* [ ] Custom gesture configuration
-* [ ] Keyboard control using gestures
-* [ ] Volume control gestures
-* [ ] Media control gestures
-* [ ] Gesture-based application switching
-* [ ] Improved low-light hand detection
-* [ ] Machine-learning-based gesture classification
+*  Multi-hand support
+*  Keyboard control using gestures
+*  Gesture-based application switching
+*  Machine-learning-based gesture classification
 
 ---
 
